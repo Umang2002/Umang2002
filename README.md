@@ -7,7 +7,7 @@
 ### 👨‍💻 About me
 - 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning everything😅
-- 👯 I’m looking to collaborate on open ource projects
+- 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything and everything
 
 ---
