@@ -42,8 +42,8 @@
 ### ⚙️ GitHub Analytics
 
 <p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umang2002&layout=compact&theme=dark" width="300"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Umang2002&show_icons=true&count_private=true&theme=dark" width="310"></a>
- <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Umang2002&bg_color=151515" width ="310"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Umang2002&layout=compact&theme=dark" width="270"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Umang2002&show_icons=true&count_private=true&theme=dark" width="280"></a>
+ <a href="#"><img src="https://activity-graph.herokuapp.com/graph?username=Umang2002&bg_color=151515" width ="270"></a>
 </p>
 
