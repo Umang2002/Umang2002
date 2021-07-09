@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
+- 🔭 I’m currently working on open source projects
 - 🌱 I’m currently learning data struture and algorithms
 - 👯 I’m looking to collaborate on open source projects
 - 💬 Ask me about anything and everything
