@@ -5,10 +5,10 @@
 
 ---
 ### 👨‍💻 About me
-- 🔭 I’m currently working on open source projects
-- 🌱 I’m currently learning everything😅
+- 🔭 I’m currently working on open source projects and doing compititve programming.
+- 🌱 I’m currently learning technology that hit me
 - 👯 I’m looking to collaborate on open source projects
-- 💬 Ask me about anything and everything
+- 💬 Ask me about anything and everything😅
 
 ---
 ### 🛠 Languages and Tools  : 
