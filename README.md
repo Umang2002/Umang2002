@@ -1,6 +1,6 @@
 <!-- ![](https://komarev.com/ghpvc/?username=Umang2002) -->
 <!-- ![My Codewarrior Profile Badge](https://www.codewars.com/users/Umang2002/badges/micro)   -->
-### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello there !
+### Hello there !
 <img align="right" src="https://mridul2820.github.io/github-assets/assets/gif/coding.gif" alt="Coder GIF" height="280">
 
 ---
